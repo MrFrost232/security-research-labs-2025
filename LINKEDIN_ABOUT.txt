@@ -1,0 +1,1 @@
+I’m a security researcher focused on web and smart-contract vulnerabilities. I build fuzzing and Foundry harnesses to turn issues into reproducible PoCs with root-cause analysis and fixes. Highlights: CVE credit in crypto library code, high-signal labs (web & EVM), and a report-first workflow that ships mitigation guidance. Portfolio: add your GitHub repo link here.
